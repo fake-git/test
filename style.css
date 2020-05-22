@@ -191,6 +191,7 @@
 					color: red;
 					text-align: center;
 					font-size: 48px;
+					font-size: 48px;
 					font-weight: bolder;
 					background-color: yellow;
 					border-radius: 12px;
@@ -201,7 +202,17 @@
 					}
 	
 					
-					
+					#mushmush { 
+				        color: red;
+						text-align: center;
+						font-size: 48px;
+						font-weight: bolder;
+						background-color: yellow;
+						border-radius: 12px;
+						width: 787px;
+					    margin-left: 354px;
+
+						}
 					
 				
 					
