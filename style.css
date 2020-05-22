@@ -1,0 +1,210 @@
+				<style type = "text/css">
+			
+			
+					
+					
+					
+					h1{}
+					
+					
+					#title { 
+				        color: red;
+						text-align: center;
+						font-size: 48px;
+						font-weight: bolder;
+						background-color: yellow;
+						border-radius: 12px;
+						width: 787px;
+					    margin-left: 354px;
+
+						}
+		        	
+					#menu{
+						
+						    float: right;
+							display: block;
+							padding: 3px;
+							position: absolute;
+							top: 201px;
+							right: 9px;
+						}
+						
+						
+				    #letter{
+						
+					margin-left:175px;	
+						
+						
+						
+					}
+				 			
+					.letter_design{
+						
+					display: inline-grid;
+					background-color: red;
+					width: 118px;
+					border-radius: 8px;
+					text-align: center;
+					font-weight: bolder;
+					height: 25px;
+					border: solid;    
+					border-color: yellow;
+					padding-top: 6px;	
+						
+						
+						
+						
+					}
+					
+					.menu_link{
+						
+				      background-color: khaki;
+			     	  text-align: center;
+				      width: 150px;
+					  height: 32px;
+					  border-radius: 8px;
+				      padding-top: 12px;
+					  font-size: 18px;
+					  font-weight: bold;
+			 		  margin-top: 10px;
+
+					  
+}
+						
+						
+				
+					
+					
+					
+					p{
+				    	color:white;
+			            font-weight:bold;
+		
+}
+				  
+				    #yellow{
+				         color: #151512;
+						 color: #151512;
+					   	 background-color: whitesmoke;
+						 width: 557px;
+						 border-radius: 8px;
+						 text-align: center;
+						 padding: 5px;
+
+}
+				  
+
+
+
+                    body{  
+					    background-image:url('http://img1.tapuz.co.il/TapuzAlbums/second1/42603828-e151-41ba-a36e-b20f20fe2260.jpg');
+						background-repeat:no-repeat;
+						background-position:center top;
+						background-size: cover;
+}	
+
+
+						h3{
+						   color:red;
+						   font-weight:bold;
+						   background-color:yellow;
+						   border-radius:8px;
+						   width:100px;
+						   padding:5px;
+						   text-align:center;
+						   border:solid;
+						   border-color:blue;
+						   
+						   }
+				   
+				   
+				    #signup {
+						
+						background-color: red;
+						border-radius: 8px;
+						float: right;
+						text-align: center;
+						margin-bottom: 19px;
+						margin-right: 12px;
+						display: block;
+						padding-bottom: 19px;
+}
+						
+
+				   
+				    #signup input{
+						width:140px;
+						margin:3px;
+						text-align:center;
+						
+						
+}
+				    
+					
+					#signup select{
+						
+						
+						width:81%;
+						text-align:center;
+						margin:3px;
+						font-size:bold;
+						
+}
+					
+				   
+				    #signup button{
+						 
+						cursor: pointer;
+						border-radius: 8px;
+						background-color: green;
+						color: white;
+						display: block;
+						margin-left: 240px;
+						margin-top: 14px;
+						width: 117px;
+						height: 38px;
+						font-weight: bold;
+						font-size: 22px;
+						
+}
+				   
+				    #join_words{
+						
+						font-size:bold;
+						text-align:center;
+						
+						
+}
+				    #fun {
+						
+					font-size:28px;
+                    color:blue;					
+                    font-weight:bold;
+					max-width:60%;
+					font-style:italic;
+}
+				    
+					#warning{
+					
+					color: red;
+					text-align: center;
+					font-size: 48px;
+					font-weight: bolder;
+					background-color: yellow;
+					border-radius: 12px;
+					width: 335px;
+					margin-left: 115px;
+					border:solid;
+					
+					}
+	
+					
+					
+					
+				
+					
+					
+					
+				   
+		     	</style>
+			  
